@@ -2,6 +2,7 @@
 24.07.30 ~ 24.08.02
 
 ![Untitled](https://github.com/user-attachments/assets/5e7fb0a4-c938-4edb-a071-412d15c1fa59)
+[테니스 계수기 자바 프로젝트 1팀 발표 자료.pdf](https://github.com/user-attachments/files/17363166/1.pdf)
 
 ## 팀 프로젝트: 테니스 계수기
 
