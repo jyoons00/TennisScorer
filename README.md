@@ -3,7 +3,7 @@
 
 ![Untitled](https://github.com/user-attachments/assets/5e7fb0a4-c938-4edb-a071-412d15c1fa59)
 #### PPT링크 
-https://www.canva.com/design/DAGWL8aA9wM/eHasd44113jA_WS11G5hEA/view?utm_content=DAGWL8aA9wM&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGMgqASSP8/uDlE-QO2PKPMsGGI5dYj1A/view?utm_content=DAGMgqASSP8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h446fb65e66
+https://www.canva.com/design/DAGMgqASSP8/uDlE-QO2PKPMsGGI5dYj1A/view?utm_content=DAGMgqASSP8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h446fb65e66
 
 ## 팀 프로젝트: 테니스 계수기
 
