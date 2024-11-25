@@ -5,7 +5,6 @@
 #### PPT링크 
 <br>
 [테니스 계수기 자바 프로젝트 1팀 발표 자료](https://www.canva.com/design/DAGMgqASSP8/uDlE-QO2PKPMsGGI5dYj1A/view?utm_content=DAGMgqASSP8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h446fb65e66)
-
 #### 팀원
 팀장 : 김재민<br>
 팀원: 김선우, 송세호, 전재윤, 김인경<br>
